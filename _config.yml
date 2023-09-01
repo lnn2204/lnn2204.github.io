@@ -35,7 +35,8 @@ navigation:
     url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-
+theme: "minima"
+skin-theme: "dark"
 # Colors
 accent_color: '#0000ff'
 
