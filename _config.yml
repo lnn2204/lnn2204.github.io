@@ -9,15 +9,16 @@
 lang: en-US
 
 # Site title
-title: "LnN - Blogpost"
+title: "Scriptor"
 
 # A description of your site for meta tag, search engine results.
-description: "4fun&Ffun"
+description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
+url: "https://scriptor-jekyll.netlify.com"
 
 # Favicon
 favicon: images/favicon.png
@@ -31,18 +32,22 @@ navigation:
     url: /
   - text: About
     url: /about/
+  - text: Style Guide
+    url: /style-guide/
   - text: Tags
     url: /tags/
+  - text: Download
+    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
-theme: "minima"
-skin-theme: "dark"
+disqus: justgoodthemes
+
 # Colors
-accent_color: '#0000ff'
+accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "Are there some good things on yours?"
+  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 
 # Plugins
