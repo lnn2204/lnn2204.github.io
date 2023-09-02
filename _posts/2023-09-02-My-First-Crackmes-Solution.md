@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "My First Crackmes Solution"
-description: "This is my first crackmes"
+title: "FirstCrackMen"
+description: "This is for begginers. To use it, open cmd and the write "FirstCrackMe ""
 date: 2023-09-02
 tags: Crackmes
-permalink: /crackmes/12398791283
+permalink: /crackmes/64ee0f7fd931496abf909393
 ---
 
-Here, **This is my first crackmes**, let's have a look
+**This crackmes was built from [LINK](https://crackmes.one/crackme/64ee0f7fd931496abf909393)**
+### Now, let's get started!
