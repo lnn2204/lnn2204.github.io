@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FirstCrackMen
+title: FirstCrackMe
 description: This is for begginers. To use it, open cmd and the write 'FirstCrackMe'
 date: 2023-09-02
 tags: Crackmes
