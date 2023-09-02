@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "FirstCrackMen"
-description: "This is for begginers. To use it, open cmd and the write "FirstCrackMe ""
+title: FirstCrackMen
+description: This is for begginers. To use it, open cmd and the write "FirstCrackMe "
 date: 2023-09-02
 tags: Crackmes
 permalink: /crackmes/64ee0f7fd931496abf909393
